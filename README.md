@@ -1,3 +1,3 @@
-# Hey, I'm Vitor Menezes! 👋
+Hey, I'm Vitor Menezes! 👋
 
-**`Desenvolvedor Backend`**
+linkedin.com/in/vitor-cmenezes
